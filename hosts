@@ -1,0 +1,10 @@
+host-0 ansible_host=localhost
+host-1 ansible_host=localhost
+host-2 ansible_host=localhost
+host-3 ansible_host=localhost
+host-4 ansible_host=localhost
+host-5 ansible_host=localhost
+host-6 ansible_host=localhost
+host-7 ansible_host=localhost
+host-8 ansible_host=localhost
+host-9 ansible_host=localhost

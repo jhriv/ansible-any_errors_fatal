@@ -1,0 +1,14 @@
+---
+
+# noqa
+
+- name: Am I up?
+  ping:
+
+- name: Generate 50/50 Failure
+  fail:
+    msg: Does this pass?
+  when: (100|random) > 50
+
+- name: Am I Still Up?
+  ping:
