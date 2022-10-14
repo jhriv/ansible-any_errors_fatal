@@ -1,7 +1,5 @@
 ---
 
-# noqa
-
 - name: Am I up?
   ping:
 
